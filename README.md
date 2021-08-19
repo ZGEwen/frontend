@@ -5,6 +5,8 @@ yarn install
 开发环境运行
 yarn run dev
 
+[Vite构建](https://cn.vitejs.dev/guide/)
+以下为模板生成的说明信息
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
