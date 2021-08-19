@@ -1,5 +1,8 @@
-# 更新vscode之后安装插件Volar
-初始化
+# 安装插件Volar后，使用时出现command 'volar.action.splitEditors' not found
+[Github issues](https://github.com/johnsoncodehk/volar/issues/368)
+更新vscode到最新版本，之后安装插件Volar
+
+项目初始化
 yarn install
 
 开发环境运行
