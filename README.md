@@ -3,7 +3,7 @@
 更新vscode到最新版本，之后安装插件Volar
 
 项目初始化
-yarn install
+yarn
 
 开发环境运行
 yarn run dev
